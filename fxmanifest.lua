@@ -14,7 +14,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 game 'gta5'
-author 'sledge_hamm3r / ShameV'
+author 'ShameV'
 description 'ShameV AFK'
 version '1.0.0'
 
